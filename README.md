@@ -21,23 +21,23 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
    - Status: 🟡 *Em Andamento*  
    - Descrição: Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
 
-3. **[Java Web: Crie Aplicações com Spring Boot](link-do-curso)**  
+3. **[Java Web: Crie Aplicações com Spring Boot](https://www.alura.com.br/formacao-java-web-spring-boot)**  
    - Status: 🔜 *Próximo*  
    - Descrição: Aprenda a desenvolver aplicações web usando Spring Boot e construa APIs REST para projetos em nível empresarial.
 
-4. **[Java e Spring Boot](link-do-curso)**  
+4. **[Java e Spring Boot](https://www.alura.com.br/formacao-spring-boot-3)**  
    - Status: 🔜 *Pendente*  
    - Descrição: Funcionalidades avançadas do Spring Boot, com foco em integração com bancos de dados, segurança e injeção de dependência.
 
-5. **[Boas Práticas em Java](link-do-curso)**  
+5. **[Boas Práticas em Java](https://www.alura.com.br/formacao-boas-praticas-java)**  
    - Status: 🔜 *Pendente*  
    - Descrição: Explore as melhores práticas no desenvolvimento em Java, incluindo refatoração de código, testes e princípios de código limpo.
 
-6. **[Aprofundando em Java com Arquitetura de Microsserviços, Spring e RabbitMQ](link-do-curso)**  
+6. **[Aprofundando em Java com Arquitetura de Microsserviços, Spring e RabbitMQ](https://www.alura.com.br/formacao-java-microsservicos)**  
    - Status: 🔜 *Pendente*  
    - Descrição: Construa e gerencie arquiteturas de microsserviços, utilizando RabbitMQ para mensageria e comunicação entre serviços.
 
-7. **[Mensageria com Apache Kafka](link-do-curso)**  
+7. **[Mensageria com Apache Kafka](https://www.alura.com.br/formacao-kafka)**  
    - Status: 🔜 *Pendente*  
    - Descrição: Aprofunde-se nos padrões de comunicação assíncrona utilizando Apache Kafka para sistemas distribuídos escaláveis.
 
