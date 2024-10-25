@@ -14,32 +14,46 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
 ## 📅 Trilhas de Estudo
 
 1. **[A partir do zero: Iniciante em Programação](https://www.alura.com.br/formacao-programacao)**  
-   - Status: ✅ *Concluído*  
-   - Descrição: Introdução à lógica de programação, com foco em conceitos essenciais como variáveis, loops e condicionais.
+   **Status:** ✅ *Concluído*  
+   **Descrição:** Introdução à lógica de programação, com foco em conceitos essenciais como variáveis, loops e condicionais.
+
+   - **1.1** Lógica de programação: mergulhe em programação com JavaScript - Concluído ✅
+   - **1.2** Lógica de programação: explore funções e listas - Concluído ✅
+   - **1.3** Git e GitHub: compartilhando e colaborando em projetos - Concluído ✅
+   - **1.4** Lógica de programação: praticando com desafios - Concluído ✅
 
 2. **[Aprenda a Programar em Java com Orientação a Objetos](https://www.alura.com.br/formacao-java)**  
-   - Status: 🟡 *Em Andamento*  
-   - Descrição: Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
+   **Status:** 🟡 *Em Andamento*  
+   **Descrição:** Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
+   
+   - **2.1** Java: criando a sua primeira aplicação - 53%
+   - **2.2** Java: aplicando a Orientação a Objetos
+   - **2.3** Java: trabalhando com listas e coleções de dados
+   - **2.4** Java: consumindo API, gravando arquivos e lidando com erros
 
 3. **[Java Web: Crie Aplicações com Spring Boot](https://www.alura.com.br/formacao-java-web-spring-boot)**  
-   - Status: 🔜 *Próximo*  
-   - Descrição: Aprenda a desenvolver aplicações web usando Spring Boot e construa APIs REST para projetos em nível empresarial.
+   **Status:** 🔜 *Próximo*  
+   **Descrição:** Aprenda a desenvolver aplicações web usando Spring Boot e construa APIs REST para projetos em nível empresarial.
+
+   - **3.1** Java: trabalhando com lambdas, streams e Spring Framework
+   - **3.2** Java: persistência de dados e consultas com Spring Data JPA
+   - **3.3** Java: criando sua primeira API e conectando ao front
 
 4. **[Java e Spring Boot](https://www.alura.com.br/formacao-spring-boot-3)**  
-   - Status: 🔜 *Pendente*  
-   - Descrição: Funcionalidades avançadas do Spring Boot, com foco em integração com bancos de dados, segurança e injeção de dependência.
+   **Status:** 🔜 *Pendente*  
+   **Descrição:** Funcionalidades avançadas do Spring Boot, com foco em integração com bancos de dados, segurança e injeção de dependência.
+
+   - **4.1** Spring Boot 3: desenvolva uma API Rest em Java
+   - **4.2** Spring Boot 3: aplique boas práticas e proteja uma API Rest
+   - **4.3** Spring Boot 3: documente, teste e prepare uma API para o deploy
 
 5. **[Boas Práticas em Java](https://www.alura.com.br/formacao-boas-praticas-java)**  
-   - Status: 🔜 *Pendente*  
-   - Descrição: Explore as melhores práticas no desenvolvimento em Java, incluindo refatoração de código, testes e princípios de código limpo.
+   **Status:** 🔜 *Pendente*  
+   **Descrição:** Explore as melhores práticas no desenvolvimento em Java, incluindo refatoração de código, testes e princípios de código limpo.
 
-6. **[Aprofundando em Java com Arquitetura de Microsserviços, Spring e RabbitMQ](https://www.alura.com.br/formacao-java-microsservicos)**  
-   - Status: 🔜 *Pendente*  
-   - Descrição: Construa e gerencie arquiteturas de microsserviços, utilizando RabbitMQ para mensageria e comunicação entre serviços.
-
-7. **[Mensageria com Apache Kafka](https://www.alura.com.br/formacao-kafka)**  
-   - Status: 🔜 *Pendente*  
-   - Descrição: Aprofunde-se nos padrões de comunicação assíncrona utilizando Apache Kafka para sistemas distribuídos escaláveis.
+   - **5.1** Java e refatoração: melhorando códigos com boas práticas
+   - **5.2** Boas práticas de programação: melhore o código de uma API Java
+   - **5.3** Boas práticas de programação: automatizando testes com Java
 
 ## 🎯 Objetivos
 
@@ -49,7 +63,7 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
 
 ## 🌱 Progresso
 
-![Progress Tracker](https://img.shields.io/static/v1?label=Progresso&message=15%25&color=blue&style=flat-square)
+![Progresso Geral](https://img.shields.io/static/v1?label=Progresso%20Geral&message=20%25&color=blue&style=for-the-badge)
 
 ## 🔗 Recursos e Documentação
 - [Formação Alura: Desenvolvimento Java](https://www.alura.com.br/formacao-java)
