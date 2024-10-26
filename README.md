@@ -70,12 +70,12 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
 Aqui estão os certificados de cursos concluídos durante a formação em Java na Alura:
 
 <p align="center">
-    <img src="" alt="Lógica de programação: mergulhe em programação com JavaScript" width="400px">
-    <img src="" alt="Lógica de programação: explore funções e listas" width="400px">
-    <img src="" alt="Git e GitHub: compartilhando e colaborando em projetos" width="400px">
-    <img src="" alt="Lógica de programação: praticando com desafios" width="400px">
-    <img src="" alt="A partir do zero: iniciante em programação" width="400px">
-    <img src="" alt="Java: criando a sua primeira aplicação" width="400px">
+    <img src="img/1.png" alt="Lógica de programação: mergulhe em programação com JavaScript" width="200px">
+    <img src="img/2.png" alt="Lógica de programação: explore funções e listas" width="200px">
+    <img src="img/3.png" alt="Git e GitHub: compartilhando e colaborando em projetos" width="200px">
+    <img src="img/4.png" alt="Lógica de programação: praticando com desafios" width="200px">
+    <img src="img/5.png" alt="A partir do zero: iniciante em programação" width="200px">
+    <img src="img/6.png" alt="Java: criando a sua primeira aplicação" width="200px">
 </p>
 
 ## 🔗 Recursos e Documentação
