@@ -23,7 +23,7 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
    - **1.4** Lógica de programação: praticando com desafios - Concluído ✅
 
 2. **[Aprenda a Programar em Java com Orientação a Objetos](https://www.alura.com.br/formacao-java)**  
-   **Status:** 🟡 *Em Andamento - 25%*  
+   **Status:** 🟡 *Em Andamento - ![25%](https://img.shields.io/static/v1?label=&message=25%&color=yellow)*  
    **Descrição:** Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
    
    - **2.1** Java: criando a sua primeira aplicação - Concluído ✅
