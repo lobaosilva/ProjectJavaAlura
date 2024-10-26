@@ -23,10 +23,10 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
    - **1.4** Lógica de programação: praticando com desafios - Concluído ✅
 
 2. **[Aprenda a Programar em Java com Orientação a Objetos](https://www.alura.com.br/formacao-java)**  
-   **Status:** 🟡 *Em Andamento*  
+   **Status:** 🟡 *Em Andamento - 25%*  
    **Descrição:** Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
    
-   - **2.1** Java: criando a sua primeira aplicação - 53%
+   - **2.1** Java: criando a sua primeira aplicação - Concluído ✅
    - **2.2** Java: aplicando a Orientação a Objetos
    - **2.3** Java: trabalhando com listas e coleções de dados
    - **2.4** Java: consumindo API, gravando arquivos e lidando com erros
@@ -64,6 +64,19 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
 ## 🌱 Progresso
 
 ![Progresso Geral](https://img.shields.io/static/v1?label=Progresso%20Geral&message=20%25&color=blue&style=for-the-badge)
+
+## 📜 Certificados
+
+Aqui estão os certificados de cursos concluídos durante a formação em Java na Alura:
+
+<p align="center">
+    <img src="" alt="Lógica de programação: mergulhe em programação com JavaScript" width="400px">
+    <img src="" alt="Lógica de programação: explore funções e listas" width="400px">
+    <img src="" alt="Git e GitHub: compartilhando e colaborando em projetos" width="400px">
+    <img src="" alt="Lógica de programação: praticando com desafios" width="400px">
+    <img src="" alt="A partir do zero: iniciante em programação" width="400px">
+    <img src="" alt="Java: criando a sua primeira aplicação" width="400px">
+</p>
 
 ## 🔗 Recursos e Documentação
 - [Formação Alura: Desenvolvimento Java](https://www.alura.com.br/formacao-java)
