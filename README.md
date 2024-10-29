@@ -27,7 +27,7 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
    **Descrição:** Domínio dos princípios da Programação Orientada a Objetos (POO), como herança, encapsulamento, polimorfismo e abstração.
    
    - **2.1** Java: criando a sua primeira aplicação - Concluído ✅
-   - **2.2** Java: aplicando a Orientação a Objetos - 20%
+   - **2.2** Java: aplicando a Orientação a Objetos - 43%
    - **2.3** Java: trabalhando com listas e coleções de dados
    - **2.4** Java: consumindo API, gravando arquivos e lidando com erros
 
