@@ -1,5 +1,7 @@
 # Desenvolvimento em Java - Trilhas de Estudo Alura
 
+![Java](https://img.shields.io/badge/Made%20with-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ## 🚀 Visão Geral do Projeto
 
 Este repositório contém minha jornada pela formação em **Desenvolvimento Java** na plataforma Alura. O objetivo é construir uma base sólida em programação Java, aprofundar o conhecimento no desenvolvimento web com **Spring Boot** e aplicar boas práticas para desenvolver aplicações escaláveis.
@@ -10,6 +12,10 @@ Este repositório contém minha jornada pela formação em **Desenvolvimento Jav
 - **RabbitMQ**
 - **Apache Kafka**
 - **Arquitetura de Microsserviços**
+
+## 🗂 Linguagens Utilizadas
+
+![Java](https://img.shields.io/badge/Java-100%25-blue)
 
 ## 📅 Trilhas de Estudo
 
