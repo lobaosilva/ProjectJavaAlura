@@ -1,0 +1,2 @@
+1. Crie uma interface Calculavel com um método double calcularPrecoFinal().
+2. Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando o preço final considerando descontos ou taxas adicionais.
