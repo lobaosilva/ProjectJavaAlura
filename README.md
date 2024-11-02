@@ -82,6 +82,7 @@ Aqui estão os certificados de cursos concluídos durante a formação em Java n
     <img src="img/4.png" alt="Lógica de programação: praticando com desafios" width="200px">
     <img src="img/5.png" alt="A partir do zero: iniciante em programação" width="200px">
     <img src="img/6.png" alt="Java: criando a sua primeira aplicação" width="200px">
+    <img src="img/6.png" alt="Java: aplicando a Orientação a Objetos" width="200px">
 </p>
 
 ## 🔗 Recursos e Documentação
